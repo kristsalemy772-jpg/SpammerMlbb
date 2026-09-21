@@ -26,7 +26,7 @@ Global Injector v1.3.1</a>
 NEED KEY LOGIN ??? :
 For inquiries and availment, send a direct message ~ <a href="https://t.me/phia_maganda">𝑷𝒉𝒊𝒂 𝑭𝒆𝒍𝒊𝒄𝒊𝒂</a>
 
-<a href="https://codm-garena-panel.onrender.com/free">Try Trial Key Here:</a></i></blockquote>"""
+<a href="https://codmgarenapanel.onrender.com/free">Try Trial Key Here:</a></i></blockquote>"""
 
 # 3. BAGONG TEMPLATE PARA SA PROMO (May expandable quote at bagong link)
 PROMO_MESSAGE = """<blockquote expandable="true"><i><a href="https://t.me/SliderModMenuMlbb/8279">Promo Available :
