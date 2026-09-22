@@ -9,7 +9,7 @@ CHANNEL_ID = "@SliderModMenuMlbb"
 bot = Bot(token=BOT_TOKEN)
 
 # 1. TEMPLATE PARA SA MLBB UPDATE
-MLBB_MESSAGE = """<blockquote expandable="true"><i><a href="https://t.me/SliderModMenuMlbb/6270">Latest Update:
+MLBB_MESSAGE = """<blockquote expandable="true"><i><a href="https://t.me/SliderModMenuMlbb/10100">Latest Update:
 Mobile Legends: Bang Bang
 v2.2.16.12322 || Mod v3.1.9</a>
 
@@ -19,7 +19,7 @@ For inquiries and availment, send a direct message ~ <a href="https://t.me/phia_
 No Free 🫪 GETS!?</i></blockquote>"""
 
 # 2. TEMPLATE PARA SA CODM
-CODM_MESSAGE = """<blockquote expandable="true"><i><a href="https://t.me/SliderModMenuMlbb/380">Latest Update: Call of Duty v1.6.57
+CODM_MESSAGE = """<blockquote expandable="true"><i><a href="https://t.me/SliderModMenuMlbb/10099">Latest Update: Call of Duty v1.6.57
 Garena Injector v2.8.8
 Global Injector v1.3.1</a>
 
@@ -29,7 +29,7 @@ For inquiries and availment, send a direct message ~ <a href="https://t.me/phia_
 <a href="https://codmgarenapanel.onrender.com/free">Try Trial Key Here:</a></i></blockquote>"""
 
 # 3. BAGONG TEMPLATE PARA SA PROMO (May expandable quote at bagong link)
-PROMO_MESSAGE = """<blockquote expandable="true"><i><a href="https://t.me/SliderModMenuMlbb/8279">Promo Available :
+PROMO_MESSAGE = """<blockquote expandable="true"><i><a href="https://t.me/SliderModMenuMlbb/10126">Promo Available :
 For Mobile Legends: Bang Bang
 Discounted price : up-to 50%</a>
 
