@@ -11,7 +11,7 @@ bot = Bot(token=BOT_TOKEN)
 # 1. TEMPLATE PARA SA MLBB UPDATE
 MLBB_MESSAGE = """<blockquote expandable="true"><i><a href="https://t.me/SliderModMenuMlbb/10100">Latest Update:
 Mobile Legends: Bang Bang
-v2.2.16.12322 || Mod v3.1.9</a>
+v2.2.16.12322 || Mod v3.2.0</a>
 
 NEED KEY LOGIN ??? :
 For inquiries and availment, send a direct message ~ <a href="https://t.me/phia_maganda">Phia Felicia</a>
